@@ -277,3 +277,9 @@ TSWLatexianTemp*
 
 # Built pdf file
 main.pdf
+
+# Editor files
+*.sublime-*
+*.code-workspace
+*.idea
+.vscode/
